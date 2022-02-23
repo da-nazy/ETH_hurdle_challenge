@@ -16,7 +16,7 @@ body{
 }
 /** hurdle section **/
 body .hurdleContainer{
-    border:1px solid #000;
+
     background-color:var(--bgColor);
      display: grid;
      height:115h;
